@@ -1,0 +1,7 @@
+{
+  "name": "Fiction Library - Art Deco Edition",
+  "description": "A curated digital library of classic fiction with AI-generated structured summaries and unique Art Deco cover art in English and Chinese.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
